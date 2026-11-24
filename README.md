@@ -25,13 +25,4 @@ Focado no desenvolvimento de APIs robustas, arquitetura de sistemas e bancos de 
   </a>
 </p>
 
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=1&pause=999999&color=E5E7EB&vCenter=true&width=400&height=38&lines=M%C3%A9tricas" alt="Métricas" />
-
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=60A5FA" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF" alt="Top Languages" />
-</p>
-
 </div>
