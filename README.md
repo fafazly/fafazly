@@ -35,4 +35,12 @@ Focado no desenvolvimento de APIs robustas, arquitetura de sistemas e bancos de 
   </a>
 </p>
 
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=1&pause=999999&color=E5E7EB&vCenter=true&width=450&height=38&lines=Linguagens+Mais+Usadas" alt="Linguagens Mais Usadas" />
+
+<p align="left">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&text_color=9CA3AF" alt="Linguagens Mais Usadas" />
+</p>
+
 </div>
