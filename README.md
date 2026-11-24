@@ -1,6 +1,6 @@
 <div align="left">
 
-# Rian Falzinni Dias
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=34&duration=1&pause=999999&color=F9FAFB&vCenter=true&multiline=false&width=600&height=50&lines=Rian+Falzinni+Dias" alt="Rian Falzinni Dias" />
 
 **Software Engineering Student & Backend Developer**
 
@@ -17,29 +17,21 @@ Focado no desenvolvimento de APIs robustas, arquitetura de sistemas e bancos de 
 
 ---
 
-### Stack & Ferramentas
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=1&pause=999999&color=E5E7EB&vCenter=true&width=400&height=38&lines=Stack+%26+Ferramentas" alt="Stack & Ferramentas" />
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=F9FAFB" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,linux&theme=dark&perline=5" height="52" alt="Stack" />
+  </a>
 </p>
 
+---
 
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=1&pause=999999&color=E5E7EB&vCenter=true&width=400&height=38&lines=M%C3%A9tricas" alt="Métricas" />
 
-<!--
-**fafazly/fafazly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=60A5FA" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF" alt="Top Languages" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
