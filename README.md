@@ -21,7 +21,7 @@ Focado no desenvolvimento de APIs robustas, arquitetura de sistemas e bancos de 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,linux&theme=dark&perline=5" height="52" alt="Stack" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,linux,docker&theme=dark&perline=6" height="52" alt="Stack" />
   </a>
 </p>
 
