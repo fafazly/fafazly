@@ -17,7 +17,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=1&pause=999999&color=E5E7EB&vCenter=true&width=450&height=42&lines=Stack+%26+Ferramentas" alt="Stack & Ferramentas" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=1&pause=999999&color=E5E7EB&vCenter=true&width=450&height=42&lines=Stack+%26+Ferramentas" alt="Stack & tecnologias" />
 
 <p align="left">
   <a href="https://skillicons.dev">
