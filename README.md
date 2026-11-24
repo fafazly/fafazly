@@ -27,16 +27,7 @@ Focado no desenvolvimento de APIs robustas, arquitetura de sistemas e bancos de 
   <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
 </p>
 
----
 
-### Métricas
-
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=60A5FA" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF" alt="Top Languages" />
-</p>
-
-</div>
 
 <!--
 **fafazly/fafazly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
