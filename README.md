@@ -35,4 +35,4 @@ Focado no desenvolvimento de APIs robustas, arquitetura de sistemas e bancos de 
   </a>
 </p>
 
-</div>]
+</div>
