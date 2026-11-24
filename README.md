@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=34&duration=1&pause=999999&color=F9FAFB&vCenter=true&multiline=false&width=600&height=50&lines=Rian+Falzinni+Dias" alt="Rian Falzinni Dias" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=40&duration=1&pause=999999&color=F9FAFB&vCenter=true&multiline=false&width=600&height=54&lines=Rian+Falzinni+Dias" alt="Rian Falzinni Dias" />
 
 **Software Engineering Student & Backend Developer**
 
@@ -17,7 +17,7 @@ Focado no desenvolvimento de APIs robustas, arquitetura de sistemas e bancos de 
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=1&pause=999999&color=E5E7EB&vCenter=true&width=450&height=38&lines=Stack+%26+Ferramentas" alt="Stack & Ferramentas" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=1&pause=999999&color=E5E7EB&vCenter=true&width=450&height=42&lines=Stack+%26+Ferramentas" alt="Stack & Ferramentas" />
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -27,7 +27,7 @@ Focado no desenvolvimento de APIs robustas, arquitetura de sistemas e bancos de 
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=1&pause=999999&color=E5E7EB&vCenter=true&width=450&height=38&lines=Ferramentas+de+Desenvolvedor" alt="Ferramentas de Desenvolvedor" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=1&pause=999999&color=E5E7EB&vCenter=true&width=450&height=42&lines=Ferramentas+de+Desenvolvedor" alt="Ferramentas de Desenvolvedor" />
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -37,10 +37,10 @@ Focado no desenvolvimento de APIs robustas, arquitetura de sistemas e bancos de 
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=1&pause=999999&color=E5E7EB&vCenter=true&width=450&height=38&lines=Linguagens+Mais+Usadas" alt="Linguagens Mais Usadas" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=1&pause=999999&color=E5E7EB&vCenter=true&width=450&height=42&lines=Linguagens+Mais+Usadas" alt="Linguagens Mais Usadas" />
 
 <p align="left">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fafazly&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&text_color=9CA3AF" alt="RESUMO" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&text_color=9CA3AF" alt="Linguagens Mais Usadas" />
 </p>
 
 </div>
