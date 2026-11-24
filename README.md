@@ -4,7 +4,7 @@
 
 **Software Engineering Student & Backend Developer**
 
-Focado no desenvolvimento de APIs robustas, arquitetura de sistemas e bancos de dados relacionais.
+Focado no desenvolvimento de APIs robustas, arquitetura de sistemas, bancos de dados relacionais e não relacionais, segurança de aplicações e governança de IA.
 
 <p align="left">
   <a href="mailto:rskthegoat07@gmail.com">
