@@ -31,8 +31,8 @@ Focado no desenvolvimento de APIs robustas, arquitetura de sistemas e bancos de 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,notion,github,arch&theme=dark&perline=5" height="52" alt="Ferramentas de Desenvolvedor" />
+    <img src="https://skillicons.dev/icons?i=idea,webstorm,vscode,notion,github,kali&theme=dark&perline=6" height="52" alt="Ferramentas de Desenvolvedor" />
   </a>
 </p>
 
-</div>
+</div>]
