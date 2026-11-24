@@ -17,11 +17,21 @@ Focado no desenvolvimento de APIs robustas, arquitetura de sistemas e bancos de 
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=1&pause=999999&color=E5E7EB&vCenter=true&width=400&height=38&lines=Stack+%26+Ferramentas" alt="Stack & Ferramentas" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=1&pause=999999&color=E5E7EB&vCenter=true&width=450&height=38&lines=Stack+%26+Ferramentas" alt="Stack & Ferramentas" />
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,linux,docker,npm,git&theme=dark&perline=8" height="52" alt="Stack" />
+  </a>
+</p>
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=1&pause=999999&color=E5E7EB&vCenter=true&width=450&height=38&lines=Ferramentas+de+Desenvolvedor" alt="Ferramentas de Desenvolvedor" />
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,notion,claude,github,datagrip&theme=dark&perline=6" height="52" alt="Ferramentas de Desenvolvedor" />
   </a>
 </p>
 
