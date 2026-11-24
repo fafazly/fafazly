@@ -4,7 +4,7 @@
 
 **Software Engineering Student & Backend Developer**
 
-Focado no desenvolvimento de APIs robustas, arquitetura de sistemas, bancos de dados relacionais e não relacionais, segurança de aplicações e governança de IA.
+Focado no desenvolvimento de APIs robustas, arquitetura de sistemas e bancos de dados relacionais.
 
 <p align="left">
   <a href="mailto:rskthegoat07@gmail.com">
@@ -21,7 +21,7 @@ Focado no desenvolvimento de APIs robustas, arquitetura de sistemas, bancos de d
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,linux,docker&theme=dark&perline=6" height="52" alt="Stack" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,linux,docker,npm,git&theme=dark&perline=8" height="52" alt="Stack" />
   </a>
 </p>
 
