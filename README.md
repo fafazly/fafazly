@@ -1,10 +1,10 @@
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=40&duration=1&pause=999999&color=F9FAFB&vCenter=true&multiline=false&width=600&height=54&lines=Rian+Falzinni+Dias" alt="Rian Falzinni Dias" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=40&duration=1&pause=999999&color=F9FAFB&vCenter=true&multiline=false&width=600&height=52&lines=Rian+Falzinni+Dias" alt="Rian Falzinni Dias" />
 
-**Software Engineering Student & Backend Developer**
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&duration=1&pause=999999&color=E5E7EB&vCenter=true&multiline=false&width=650&height=26&lines=Software+Engineering+Student+%26+Backend+Developer" alt="Software Engineering Student & Backend Developer" />
 
-Focado no desenvolvimento de APIs robustas, arquitetura de sistemas e bancos de dados relacionais, não relacionais, aplication security e infraestrutura.
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=400&size=14&duration=1&pause=999999&color=9CA3AF&vCenter=true&multiline=false&width=720&height=26&lines=Focado+no+desenvolvimento+de+APIs+robustas%2C+arquitetura+de+sistemas+e+bancos+de+dados+relacionais." alt="Focado no desenvolvimento de APIs robustas, arquitetura de sistemas e bancos de dados relacionais." />
 
 <p align="left">
   <a href="mailto:rskthegoat07@gmail.com">
@@ -40,7 +40,7 @@ Focado no desenvolvimento de APIs robustas, arquitetura de sistemas e bancos de 
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=1&pause=999999&color=E5E7EB&vCenter=true&width=450&height=42&lines=Linguagens+Mais+Usadas" alt="Linguagens Mais Usadas" />
 
 <p align="left">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fafazly&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&text_color=9CA3AF" alt="Linguagens Mais Usadas" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&text_color=9CA3AF" alt="Linguagens Mais Usadas" />
 </p>
 
 </div>
